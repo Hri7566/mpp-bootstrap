@@ -1,0 +1,19 @@
+{
+    "name": "mpp-bootstrap",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node ."
+    },
+    "keywords": [],
+    "author": "Hri7566 <hri7566@gmail.com>",
+    "license": "ISC",
+    "dependencies": {
+        "@t3-oss/env-core": "^0.10.1",
+        "dotenv": "^16.4.5",
+        "mpp-client-net": "^1.2.0",
+        "zod": "^3.23.8"
+    }
+}
